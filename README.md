@@ -1,6 +1,6 @@
 # Python
 
-# Python for Cybersecurity 🐍
+# Python for Cybersecurity 
 
 This repository documents my Python learning journey as I build programming skills for Cybersecurity, Ethical Hacking, and Automation.
 
