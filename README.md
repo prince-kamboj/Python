@@ -101,7 +101,7 @@ The goal of this repository is to learn Python from beginner to advanced concept
 - [x] Python Introduction
 - [x] Variables
 - [x] Data Types
-- [ ] Operators
+- [x] Operators
 - [ ] Input and Output
 
 ### Control Flow
